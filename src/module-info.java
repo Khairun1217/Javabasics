@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Javaoops {
+module Javabasics {
 }
